@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpecrypt",
+        "uuid": 122180,
+        "checksum": "4molzt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
